@@ -1,3 +1,5 @@
-# Perplexed
+#Welcome to Karma GPT!
 
-Perplexed is the *"Perplexity Profile"* of the **Pro Account** of [Infectious Content LLC](https://infectiouscontent.com). Its purposes is to guide the AI-powered conversational search engine produce the most ideal responses. According to Perplexity AI, the profile is supposed to help "users to customize their interaction with the AI by setting various preferences and instructions". 
+This [GPT model](https://chatgpt.com/g/g-OVHGBfj0E-karma-gpt) is the AI-guru explaining the workings of karma, drawing exclusively from "The Workings of Kamma" by Pa Auk Sayadaw and the [Suttapiṭaka](https://suttacentral.net/pitaka/sutta) of the Pāḷi cannon. (Yes, we know it's 'kamma' but let's stick with 'karma' for simplicity.)
+
+Remember: Karma's got you covered, and so does Karma GPT!
